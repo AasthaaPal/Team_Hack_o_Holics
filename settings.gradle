@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "splashscreen"
+rootProject.name = "App_Intro"
 include ':app'
